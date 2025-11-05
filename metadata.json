@@ -1,0 +1,5 @@
+{
+  "name": "Tesla UI Simulator V2",
+  "description": "An interactive mockup of the Tesla vehicle settings interface, built with React and Tailwind CSS. It replicates the look, feel, and functionality of the in-car touchscreen for a realistic user experience.",
+  "requestFramePermissions": []
+}
